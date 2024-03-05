@@ -1,1 +1,4 @@
-# Mata Kuliah Pemograman 2024
+## Mata Kuliah Pemograman
+Nama  : Aghashan Zidanlana
+NIM   : 23.11.5633
+Kelas : Informatika 05
